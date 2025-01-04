@@ -1,0 +1,4 @@
+ID,Time,Coord,Emotion,Action,merged
+2,1,"[207, 117]",['fear'],[None],fear+on
+2,3,"[206, 117]",['angry'],[None],angry+on
+2,4,"[206, 117]",['angry'],[None],angry+on

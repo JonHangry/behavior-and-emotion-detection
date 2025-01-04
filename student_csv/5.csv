@@ -1,0 +1,5 @@
+ID,Time,Coord,Emotion,Action,merged
+5,1,"[522, 143]",['sad'],[None],sad+on
+5,2,"[523, 143]",['sad'],[None],sad+on
+5,3,"[517, 141]",['sad'],['reading'],sad+reading
+5,4,"[517, 142]",['sad'],['reading'],sad+reading

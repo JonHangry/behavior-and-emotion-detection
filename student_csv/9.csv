@@ -1,0 +1,8 @@
+ID,Time,Coord,Emotion,Action,merged
+9,1,"[13, 175]",['happy'],['reading'],happy+reading
+9,2,"[19, 175]",['sad'],['writing'],sad+writing
+9,2,"[16, 174]",['happy'],['writing'],happy+writing
+9,3,"[13, 171]",['happy'],['reading'],happy+reading
+9,3,"[20, 172]",['sad'],['reading'],sad+reading
+9,4,"[13, 171]",['happy'],['reading'],happy+reading
+9,4,"[20, 172]",['sad'],['reading'],sad+reading

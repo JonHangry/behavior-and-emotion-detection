@@ -1,0 +1,5 @@
+ID,Time,Coord,Emotion,Action,merged
+14,1,"[540, 175]",['fear'],['reading'],fear+reading
+14,2,"[540, 179]",['fear'],['reading'],fear+reading
+14,3,"[538, 174]",['sad'],['reading'],sad+reading
+14,4,"[538, 175]",['fear'],['reading'],fear+reading

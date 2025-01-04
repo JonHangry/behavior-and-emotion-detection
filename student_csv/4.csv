@@ -1,0 +1,5 @@
+ID,Time,Coord,Emotion,Action,merged
+4,1,"[585, 147]",['sad'],['reading'],sad+reading
+4,2,"[583, 148]",['angry'],[None],angry+on
+4,3,"[583, 148]",['sad'],['reading'],sad+reading
+4,4,"[583, 148]",['sad'],['reading'],sad+reading

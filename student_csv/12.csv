@@ -1,0 +1,5 @@
+ID,Time,Coord,Emotion,Action,merged
+12,1,"[221, 179]",['sad'],['reading'],sad+reading
+12,2,"[221, 176]",['sad'],['reading'],sad+reading
+12,3,"[219, 176]",['sad'],['reading'],sad+reading
+12,4,"[219, 176]",['sad'],['reading'],sad+reading

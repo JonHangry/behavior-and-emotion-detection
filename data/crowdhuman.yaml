@@ -1,0 +1,11 @@
+path: ../coco128
+train: train/images
+val: valid/images
+test:
+#test: test.txt
+
+#number of classes
+nc: 3
+
+# class names
+names: ['head', 'full body', 'visible body']

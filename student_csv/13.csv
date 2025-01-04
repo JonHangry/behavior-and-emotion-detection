@@ -1,0 +1,6 @@
+ID,Time,Coord,Emotion,Action,merged
+13,1,"[128, 166]",['sad'],['reading'],sad+reading
+13,2,"[124, 162]",['sad'],[None],sad+on
+13,2,"[130, 164]",['fear'],['reading'],fear+reading
+13,3,"[128, 169]",['sad'],[None],sad+on
+13,4,"[128, 170]",['fear'],[None],fear+on

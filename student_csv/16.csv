@@ -1,0 +1,4 @@
+ID,Time,Coord,Emotion,Action,merged
+16,2,"[143, 113]",['angry'],['reading'],angry+reading
+16,3,"[144, 114]",['angry'],['reading'],angry+reading
+16,4,"[144, 114]",['angry'],['reading'],angry+reading

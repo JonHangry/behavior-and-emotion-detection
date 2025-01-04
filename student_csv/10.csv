@@ -1,0 +1,2 @@
+ID,Time,Coord,Emotion,Action,merged
+10,1,"[18, 176]",['sad'],['reading'],sad+reading

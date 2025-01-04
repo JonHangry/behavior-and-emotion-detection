@@ -1,0 +1,4 @@
+ID,Time,Coord,Emotion,Action,merged
+17,2,"[425, 145]",['fear'],['reading'],fear+reading
+17,3,"[424, 146]",['sad'],[None],sad+on
+17,4,"[424, 146]",['sad'],[None],sad+on

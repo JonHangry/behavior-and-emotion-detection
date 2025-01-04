@@ -1,0 +1,7 @@
+ID,Time,Coord,Emotion,Action,merged
+11,1,"[463, 182]",['sad'],['reading'],sad+reading
+11,2,"[472, 183]",['sad'],[None],sad+on
+11,3,"[483, 184]",['neutral'],['reading'],neutral+reading
+11,3,"[481, 184]",['happy'],['reading'],happy+reading
+11,4,"[483, 184]",['neutral'],['reading'],neutral+reading
+11,4,"[481, 184]",['happy'],['reading'],happy+reading

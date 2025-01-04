@@ -1,0 +1,5 @@
+ID,Time,Coord,Emotion,Action,merged
+6,1,"[87, 149]",['fear'],['reading'],fear+reading
+6,2,"[89, 143]",['disgust'],['reading'],disgust+reading
+6,3,"[91, 151]",['fear'],[None],fear+on
+6,4,"[91, 151]",['fear'],[None],fear+on
